@@ -30,7 +30,7 @@ npm run dev
 3. 배포 주소
 
 Swagger  /  http://localhost:3000/swagger
-JCloud 주소  /  
+JCloud 주소  /  113.198.66.68:19008
 
 4. 인증 플로우 설명
 
