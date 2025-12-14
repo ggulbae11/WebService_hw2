@@ -5,6 +5,7 @@ BookStore API Server
 node -v
 npm -v
 npm install
+npm run dev
 
 2. 환경변수 설명
 #.env.example
